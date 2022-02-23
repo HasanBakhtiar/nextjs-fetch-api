@@ -1,0 +1,33 @@
+{
+  "name": "nextjs",
+  "version": "1.0.0",
+  "description": "this repo for NextJs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HasanBakhtiar/NextJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HasanBakhtiar/NextJs/issues"
+  },
+  "homepage": "https://github.com/HasanBakhtiar/NextJs#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "isomorphic-unfetch": "^3.1.0",
+    "next": "^12.0.10",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  }
+}
